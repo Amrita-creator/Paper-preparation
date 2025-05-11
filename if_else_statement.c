@@ -11,7 +11,7 @@ int main(){
     }
 ///////////////check odd even ///////////////////
 int a;
-printf("enter no: %d ");
+printf("enter no: ");
 scanf("%d",&a);
 if(a%2 == 0){
     printf("even no");
@@ -22,18 +22,19 @@ else{
 
 return 0;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
