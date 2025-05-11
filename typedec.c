@@ -4,5 +4,5 @@ int main(){
     int a = 66;
     int b = a; 
     int c = b + 7;
-  int d=7 ,e ;
+    int d = 7 ,e ;
 }
