@@ -16,7 +16,7 @@ int main(){
     return 0;
 }
 
-void swap_no(int a,int b){   /// call by value 
+void swap_no(int a,int b){        /// call by value 
     int temp;
     temp = b;
     b = a;
